@@ -3,7 +3,7 @@ package week1.day1;
 public class NumberCheckPosNeg {
 	public static void main(String[] args) {
 
-		int Num = 0;
+		int Num = 50;
 
 		if (Num < 0) {
 			System.out.println("The Number is Negetive");
